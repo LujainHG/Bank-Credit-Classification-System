@@ -114,18 +114,6 @@ src/               -> ML pipeline and preprocessing
 streamlit_app/     -> Streamlit frontend
 ```
 
----
 
-# Future Improvements
 
-- Cloud deployment
-- CI/CD integration
-- Real-time monitoring
-- Authentication and security enhancements
-- Advanced ensemble models
 
----
-
-# Author
-
-Lujain Hamarsheh
